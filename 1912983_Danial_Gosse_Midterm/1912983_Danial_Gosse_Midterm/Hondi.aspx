@@ -35,7 +35,11 @@
 </head>
 <body>
 
-    <h1 class="center">Hondi Build & Price</h1>
+    <%-- Title and github link --%>
+    <div class="center">
+        <h1 >Hondi Build & Price</h1>
+        <a href="https://github.com/DenialHere/Midterm-Exam" class="center">Github link</a>
+    </div>
 
     <form id="form1" runat="server">
         
